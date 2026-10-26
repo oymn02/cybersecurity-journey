@@ -47,3 +47,9 @@ All offensive security exercises are restricted to intentionally vulnerable labs
 The goal is to demonstrate a thoughtful, evidence-led approach to security: understanding how systems work, identifying meaningful risks, and communicating practical mitigations.
 
 *This is a learning portfolio. Claims of proficiency will be supported by concrete work published here.*
+
+
+## First practical exercise
+
+- [SQL injection fundamentals](fundamentals/sql-injection.md)
+- [Lab 01: retrieve hidden data (PortSwigger)](labs/portswigger-retrieve-hidden-data.md)
